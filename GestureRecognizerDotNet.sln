@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureRecognizerDotNet", "GestureRecognizerDotNet\GestureRecognizerDotNet.csproj", "{80CB5FBA-B6B3-48EC-86E3-9FCA19D39E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureRecognizerApp", "GestureRecognizerApp\GestureRecognizerApp.csproj", "{496CD585-482B-4C62-8FA1-882C0534FC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureRecognizerCanvas", "GestureRecognizerCanvas\GestureRecognizerCanvas.csproj", "{69CC0597-47EA-4B05-8459-0C919AA0DD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CB5FBA-B6B3-48EC-86E3-9FCA19D39E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CB5FBA-B6B3-48EC-86E3-9FCA19D39E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CB5FBA-B6B3-48EC-86E3-9FCA19D39E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CB5FBA-B6B3-48EC-86E3-9FCA19D39E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496CD585-482B-4C62-8FA1-882C0534FC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496CD585-482B-4C62-8FA1-882C0534FC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496CD585-482B-4C62-8FA1-882C0534FC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496CD585-482B-4C62-8FA1-882C0534FC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CC0597-47EA-4B05-8459-0C919AA0DD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CC0597-47EA-4B05-8459-0C919AA0DD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CC0597-47EA-4B05-8459-0C919AA0DD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CC0597-47EA-4B05-8459-0C919AA0DD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
